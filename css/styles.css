@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav {
+    border-radius: 0!important;
+    font-size: 1.25em;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+@media (min-width: 768px) {
+
+    main {
+        width: 95%;
+    }
+    
+}
